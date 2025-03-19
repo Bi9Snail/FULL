@@ -1,0 +1,15 @@
+{
+  "name": "FULL",
+  "symbol": "FULL",
+  "description": "Proof of holding various FULL NFTs, FULL AI service, Airdrop.",
+  "extensions": {
+    "twitter": "https://x.com/@musicfulltv",
+    "youtube": "https://youtube.com/@fullnfttv",
+    "telegram": "https://t.me/musicfulltv",
+    "instagram": "https://instagram.com/musicfulltv",
+    "facebook": "https://facebook.com/musicfulltv",
+    "tiktok": "https://www.tiktok.com/@fullnft"
+  },
+  "tags": ["NFT, AI, Airdrop"],
+  "image": "https://raw.githubusercontent.com/Bi9Snail/FULL/main/FULL_logo.png"
+}
